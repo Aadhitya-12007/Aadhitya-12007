@@ -1,11 +1,19 @@
 💼 Professional Summary
+
 👨🎓 Final-year Electronics & Communication Engineering student (CGPA: 9.2)
+
 🔌 Hands-on experience in embedded systems & IoT
+
 💻 Skilled in microcontroller programming (MSP430, STM32, ESP32, RP2040, Atmel & PIC)
+
 📐 Proficient in PCB design & routing using Altium & KiCAD
+
 🌐 IoT integrations with Blynk, ThingSpeak & Telegram bots
+
 🤖 Familiar with Micropython, Arduino IDE, TI CCS, MPLAB IDE & Thonny IDE
+
 ⚙️ Knowledge of RTOS basics & RV32I ISA
+
 🔧 Strong communication, teamwork skills & a passion for building impactful tech
 
 🚀 Interactive Highlights
