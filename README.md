@@ -11,14 +11,14 @@
 
 I am a passionate Electronics & Communication Engineer specializing in bare-metal programming, hardware-software co-design, and hardware security. I thrive on building deterministic, real-time systems and bridging them with modern IoT frameworks. 
 
-* 🎓 **Incoming Graduate Student:** Pursuing an M.Sc. in **Embedded Electronic System Design** at **Chalmers University of Technology** *(Autumn 2026 - Spring 2028)* as an **IPOET Scholar**.
-* 🎓 **Undergraduate:** Final-year B.E. ECE student at SRM Easwari Engineering College (CGPA: 9.3/10).
+* Will be pursuing an M.Sc. in **Embedded Electronic System Design** at **Chalmers University of Technology** *(Autumn 2026 - Spring 2028)* as an **IPOET Scholar**.
+* Final-year B.E. ECE student at SRM Easwari Engineering College (CGPA: 9.3/10).
 * 🔬 **Research Focus:** Hardware security, specifically side-channel analysis and hardware Trojan detection in cryptographic algorithms (AES-256, DES, ASCON).
 * ⚙️ **Current Obsession:** Writing deterministic bare-metal C firmware, RTOS implementation, and designing low-power IoT architectures.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=fpga&logoColor=white)
 
@@ -67,18 +67,18 @@ I am a passionate Electronics & Communication Engineer specializing in bare-meta
 
 ## Publications & Research
 
-* **Scopus-Index Published Paper:** *"Dual-Metric Detection of Synthesis-Masked Hardware Trojans in AES-256: Correlating Power Signatures with Switching Activity"* — Scopus-indexed journal (IROTCSST Journal) (April 2026).
-* **Conference Abstract:** *"Detection of Hardware Trojans in AES-256 Cores using Power and Switching Analysis"* — ITDECC-2025 (Sept 2025).
-* **Conference Paper:** *"Adapt an RTOS to RISC-V for Safety-Critical Embedded Applications"* — ICMICC'25 (April 2025).
-* **Conference Paper:** *"IoT Based Fire Alarm using Raspberry Pi Pico W"* — ICMICC'25 (April 2025).
+* *"Dual-Metric Detection of Synthesis-Masked Hardware Trojans in AES-256: Correlating Power Signatures with Switching Activity"* — Scopus-indexed journal (IROTCSST Journal) (April 2026).
+* *"Detection of Hardware Trojans in AES-256 Cores using Power and Switching Analysis"* — ITDECC-2025 International Conference (Sept 2025).
+* *"Adapt an RTOS to RISC-V for Safety-Critical Embedded Applications"* — ICMICC'25 International Conference (April 2025).
+* *"IoT Based Fire Alarm using Raspberry Pi Pico W"* — ICMICC'25 International Conference (April 2025).
 
 ---
 
 ## Honors, Awards & Community
 
-* **NPTEL Honors (IIT Madras & Roorkee):** Top 1% Performer in Entrepreneurship; Top 5% Performer in Leadership & Team Effectiveness.
-* **Mentorship:** Organized and conducted the *"Texas Instruments Microcontrollers and Energia IDE Programming"* workshop for 30+ first-year ECE students.
-* **Memberships:** Active member of IETE & ISTE; Volunteer for Youth Red Cross (YRC) and Rotaract Club.
+* Top 1% Performer in Entrepreneurship; Top 5% Performer in Leadership & Team Effectiveness.
+* Organized and conducted the *"Texas Instruments Microcontrollers and Energia IDE Programming"* workshop for 30+ first-year ECE students.
+* Active member of IETE & ISTE; Volunteer for Youth Red Cross (YRC) and Rotaract Club.
 
 ---
 <p align="center">
