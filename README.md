@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aadhitya G. 👋</h1>
+<h1 align="center">Hi there, I'm Aadhitya. 👋</h1>
 <h3 align="center">Embedded Systems Engineer | Hardware Security Researcher | IoT Developer</h3>
 
 <p align="center">
