@@ -11,8 +11,8 @@
 
 I am a passionate Electronics & Communication Engineer specializing in bare-metal programming, hardware-software co-design, and hardware security. I thrive on building deterministic, real-time systems and bridging them with modern IoT frameworks. 
 
-* Will be pursuing an M.Sc. in **Embedded Electronic System Design** at **Chalmers University of Technology** *(Autumn 2026 - Spring 2028)* as an **IPOET Scholar**.
-* Final-year B.E. ECE student at SRM Easwari Engineering College (CGPA: 9.3/10).
+* Currently pursuing an M.Sc. in **Embedded Electronic System Design** at **Chalmers University of Technology**, Gothenburg, Sweden *(Autumn 2026 - Spring 2028)* as an **IPOET Scholar**.
+* Finished my Undergraduate degree in Electronics and Communication Engineering at Anna University, Chennai, India (CGPA: 9.29/10).
 * 🔬 **Research Focus:** Hardware security, specifically side-channel analysis and hardware Trojan detection in cryptographic algorithms (AES-256, DES, ASCON).
 * ⚙️ **Current Obsession:** Writing deterministic bare-metal C firmware, RTOS implementation, and designing low-power IoT architectures.
 
@@ -78,7 +78,7 @@ I am a passionate Electronics & Communication Engineer specializing in bare-meta
 
 * Top 1% Performer in Entrepreneurship; Top 5% Performer in Leadership & Team Effectiveness.
 * Organized and conducted the *"Texas Instruments Microcontrollers and Energia IDE Programming"* workshop for 30+ first-year ECE students.
-* Active member of IETE & ISTE; Volunteer for Youth Red Cross (YRC) and Rotaract Club.
+* Member of IETE & ISTE; Volunteer for Youth Red Cross (YRC) and Rotaract Club.
 
 ---
 <p align="center">
